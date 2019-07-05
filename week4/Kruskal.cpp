@@ -2,6 +2,8 @@
 //ID: s1242006
 //Kruskal algorithm implemented in C++
 //To implement and run the program, we change the directory to the directory we saved the Kruskal.cpp file and run the following command lines:
+//g++ -std=c++11 -o Kruskal.o Kruskal.cpp
+//.Kruskal.o
 //Just in MacOS
 //clang++ -std=c++11 -stdlib=libc++ -Wno-c++98-compat Kruskal.cpp
 //./a.out
