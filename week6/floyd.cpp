@@ -3,6 +3,8 @@
 // The implementation of Floyd's algorithm in C++
 //Input: first input the number of rows (equal to the number of columns) of the weight matrix.
 //       Then input the value of each cell in the weight matrix respectively.
+//Note: For the vertex(cell) has weight equal to infinite, input “inf” to represent it
+
 //The output will be the APSP matrix D ( the weight matrix of all pairs with the shortest path)
 // To implement and run program, run the following command lines:
 //g++ -std=c++11 -o floyd.o floyd.cpp
